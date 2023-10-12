@@ -1,0 +1,14 @@
+
+.skill-boxes {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-box {
+  background-color: #d1cf7e;
+  color: white;
+  padding: 8px 16px;
+  margin: 8px;
+  border-radius: 4px;
+  font-size: 14px;
+}
